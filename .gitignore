@@ -26,7 +26,13 @@ yarn-error.log*
 
 # local env files
 .env*.local
+<<<<<<< HEAD
 .env
+=======
+
+.env
+
+>>>>>>> b83f097 (scaffolding and prisma)
 # vercel
 .vercel
 

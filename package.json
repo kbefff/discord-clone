@@ -30,5 +30,11 @@
     "tailwindcss": "3.3.3",
     "tailwindcss-animate": "^1.0.7",
     "typescript": "5.2.2"
+<<<<<<< HEAD
+=======
+  },
+  "devDependencies": {
+    "prisma": "^5.3.1"
+>>>>>>> b83f097 (scaffolding and prisma)
   }
 }
